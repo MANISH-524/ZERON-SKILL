@@ -278,11 +278,7 @@ MIT — use it, modify it, share it. If you improve it, contribute back.
 
 ---
 
-<div align="center">
 
-*Built from frustration. Refined through evidence. Shipped when it worked.*
-
-**The user directs. Claude executes. That is the whole contract.**
 
 </div>
 #
