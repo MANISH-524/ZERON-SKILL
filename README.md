@@ -285,5 +285,4 @@ MIT — use it, modify it, share it. If you improve it, contribute back.
 **The user directs. Claude executes. That is the whole contract.**
 
 </div>
-#   Z E R O N - S K I L L  
- 
+#
